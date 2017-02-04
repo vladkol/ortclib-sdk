@@ -12,7 +12,7 @@
 	url = https://github.com/webrtc-uwp/usrsctp.git
 [submodule "webrtc/xplatform/webrtc"]
 	path = webrtc/xplatform/webrtc
-	url = https://github.com/webrtc-uwp/webrtc.git
+	url = https://github.com/vladkol/webrtc.git
 [submodule "webrtc/xplatform/chromium-pruned"]
 	path = webrtc/xplatform/chromium-pruned
 	url = https://github.com/webrtc-uwp/chromium-pruned.git
@@ -78,19 +78,19 @@
 	url = https://github.com/ortclib/curl-build-scripts.git
 [submodule "ortc/windows"]
 	path = ortc/windows
-	url = https://github.com/ortclib/ortclib-windows.git
+	url = https://github.com/vladkol/ortclib-windows.git
 [submodule "ortc/apple"]
 	path = ortc/apple
 	url = https://github.com/ortclib/ortclib-apple.git
 [submodule "webrtc/windows"]
 	path = webrtc/windows
-	url = https://github.com/webrtc-uwp/webrtc-windows.git
+	url = https://github.com/vladkol/webrtc-windows.git
 [submodule "common/windows/samples/PeerCC"]
 	path = common/windows/samples/PeerCC
-	url = https://github.com/webrtc-uwp/PeerCC.git
+	url = https://github.com/vladkol/PeerCC.git
 [submodule "common/windows/samples/ChatterBox"]
 	path = common/windows/samples/ChatterBox
-	url = https://github.com/webrtc-uwp/ChatterBox.git
+	url = https://github.com/vladkol/ChatterBox.git
 [submodule "webrtc/xplatform/winsdk_samples_v71"]
 	path = webrtc/xplatform/winsdk_samples_v71
 	url = https://chromium.googlesource.com/external/webrtc/deps/third_party/winsdk_samples_v71
