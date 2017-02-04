@@ -2,7 +2,7 @@ INSTRUCTIONS
 =======
 
 From your terminal, please clone the "ortclib-sdk" git repository:
-git clone --recursive https://github.com/ortclib/ortclib-sdk.git
+git clone --recursive https://github.com/vladkol/ortclib-sdk.git
 
 This repository will yield the ORTC Lib SDK and dependency libraries.
 
